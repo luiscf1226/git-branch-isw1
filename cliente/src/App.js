@@ -1,10 +1,10 @@
 
 import './App.css';
-
+import About from './componentes/About.jsx'
 function App() {
   return (
     <div className="App">
-     <h1>hola</h1>
+     <About/>
     </div>
   );
 }
